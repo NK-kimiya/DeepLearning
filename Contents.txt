@@ -1,0 +1,26 @@
+SimplePerceptron/sigmoid.py　→　シグモイド関数
+
+SimplePerceptron/forward_propagation.py　→　シグモイド関数　→　順伝播
+
+SimplePerceptron/xor.py　→　xor問題を単純パーセプトロンで構築
+
+MLP/Classification_rf.py　→ TensorFlow/Keras を使って Fashion-MNIST を分類する
+                　          シンプルな MLP（多層パーセプトロン）モデルを構築し、
+                            訓練・評価する 
+
+
+MLP/Classification_torch.py　→　PyTorchを使ってFashion-MNISTを分類するMLPモデルを構築し、
+　　　　　　　                   訓練・評価する
+
+
+CNN/CNN.py　→　プーリング層を実装したCNNの構築
+
+CNN/general_object_recognition_tr.py　→　画像を拡張して精度を上げる(TensorFlow)
+
+CNN/general_object_recognition_torch.py　→　画像を拡張して精度を上げる(PyTorch)
+
+CNN/VGG16.pt　→　事前学習済みモデルVGG16をファインチューニング
+
+LSTM/LSTM.py　→　自然言語の時系列データをLSTMで学習
+
+LSTM/asseble.py　→　自然言語の時系列データをLSTMとCNNでアンサンブル学習
